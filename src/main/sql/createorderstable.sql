@@ -10,6 +10,5 @@ create table orders(
  payment varchar(4),
  retailer varchar(20),
  PRIMARY KEY (orderid));
-insert into orders(ts, username, src, dest, bill, payment, retailer) 
-			values(current_timestamp(), 'abc', 'England', 'India', '3499.00', 'done', 'Hitachi');
+insert into orders(ts, username, src, dest, bill, payment, retailer) values(current_timestamp(), 'abc', 'England', 'India', '3499.00', 'done', 'Hitachi');
 select * from orders;

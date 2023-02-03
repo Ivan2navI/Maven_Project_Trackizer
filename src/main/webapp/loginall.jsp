@@ -32,24 +32,24 @@
 
 				<form class="login100-form validate-form" >
 					<span class="login100-form-title">
-						!!! General Login  !!!
+						General Login
 					</span>
 
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn" >
-							<a href="user/loginpage.jsp">1Login as User
+							<a href="user/loginpage.jsp">Login as User
 						</button>
 					</div>
 
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn">
-							<a href="retailer/retailerloginpage.jsp">2Login as Retailer
+							<a href="retailer/retailerloginpage.jsp">Login as Retailer
 						</button></a>
 					</div>
 					
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn">
-							<a href="admin/adminloginpage.jsp" >3Login as Admin
+							<a href="admin/adminloginpage.jsp" >Login as Admin
 						</button></a>
 					</div>
 

@@ -62,7 +62,7 @@
 							Forgot
 						</span>
 						<a class="txt2" href="#">
-							Username / Password (XEXE XE XE)?
+							Username / Password?
 						</a>
 					</div>
 

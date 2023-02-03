@@ -17,7 +17,7 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="#">L1 EPAM</a></h1>
+			<h1><a href="#">TRACKIZER</a></h1>
 		</div>
 		<div id="menu">
 			<ul>
@@ -32,7 +32,7 @@
 	</div>
 	<div id="banner" class="container">
 		<div class="title">
-			<h2>Courier ! Management ! and  ! Tracking ! System</h2>
+			<h2>Courier Management and Tracking System</h2>
 			<span class="byline">Built with Maven</span>
 		</div>
 		<ul class="actions">

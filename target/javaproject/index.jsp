@@ -17,22 +17,22 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="#">L1 EPAM</a></h1>
+			<h1><a href="#">TRACKIZER</a></h1>
 		</div>
 		<div id="menu">
 			<ul>
-				<li class="active"><a href="#" accesskey="1" title="">1Homepage</a></li>
-				<li><a href="user/placeorderpage.jsp" accesskey="2" title="">2Place Order</a></li>
-				<li><a href="user/trackform.jsp" accesskey="3" title="">3Track Order</a></li>
-				<li><a href="assets/Project Report.pdf" accesskey="4" title="">4About Us</a></li>
-				<li><a href="loginall.jsp"  accesskey="5" title="">5Login</a></li>
+				<li class="active"><a href="#" accesskey="1" title="">Homepage</a></li>
+				<li><a href="user/placeorderpage.jsp" accesskey="2" title="">Place Order</a></li>
+				<li><a href="user/trackform.jsp" accesskey="3" title="">Track Order</a></li>
+				<li><a href="assets/Project Report.pdf" accesskey="4" title="">About Us</a></li>
+				<li><a href="loginall.jsp"  accesskey="5" title="">Login</a></li>
 				
 			</ul>
 		</div>
 	</div>
 	<div id="banner" class="container">
 		<div class="title">
-			<h2>2 Courier Management and Tracking System 2</h2>
+			<h2>Courier Management and Tracking System</h2>
 			<span class="byline">Built with Maven</span>
 		</div>
 		<ul class="actions">

@@ -17,7 +17,7 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="#">TRACKIZER</a></h1>
+			<h1><a href="#">L1 EPAM TEST</a></h1>
 		</div>
 		<div id="menu">
 			<ul>

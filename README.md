@@ -1,4 +1,4 @@
-# Trackizer
+# Trackizer [(link to original project)](https://github.com/akshitadixit/Trackizer-WA)
 
 [![Java CI with Maven](https://github.com/akshitadixit/Trackizer-WA/actions/workflows/maven2.yml/badge.svg?branch=master)](https://github.com/akshitadixit/Trackizer-WA/actions/workflows/maven2.yml) 
 ![maven](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven?style=plastic) 

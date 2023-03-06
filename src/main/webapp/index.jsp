@@ -17,7 +17,7 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="#">L1 EPAM TEST</a></h1>
+			<h1><a href="#">L1 EPAM 06.03.2023</a></h1>
 		</div>
 		<div id="menu">
 			<ul>

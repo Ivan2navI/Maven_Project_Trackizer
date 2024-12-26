@@ -30,7 +30,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.11</version>
+      <version>4.x</version> <!-- Upgrade junit:junit to version 4.13.1 or later. -->
       <scope>test</scope>
     </dependency>
   </dependencies>
